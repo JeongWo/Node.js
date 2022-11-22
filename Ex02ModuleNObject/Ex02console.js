@@ -13,7 +13,7 @@ const obj = {
     }
 }
 
-console.dir(obj, {colors : false, depth : 2});
+console.dir(obj, {colors : false, depth : 2}); //depth 기본값 2
 console.dir(obj, {colors : true, depth :1});
 
 console.timeEnd('전체 시간');
