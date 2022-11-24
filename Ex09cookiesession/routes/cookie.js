@@ -29,7 +29,4 @@ router.get('/deletecookie', (req,res)=>{
 });
 
 
-
-
-
 module.exports = router;
